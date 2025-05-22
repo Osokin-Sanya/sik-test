@@ -1,0 +1,150 @@
+{
+  "main": {
+    "contactUs": "Contactez-nous",
+    "heroTitle": "CRÉONS UN SITE POUR VOTRE ENTREPRISE",
+    "heroSubtitle": "Remplissez le formulaire et recevez un audit marketing gratuit de votre entreprise",
+    "heroButton": "Soumettre une demande"
+  },
+  "link": {
+    "how": "Comment nous travaillons",
+    "works": "Nos réalisations",
+    "team": "Notre équipe",
+    "contacts": "Contacts"
+  },
+  "how": {
+    "Mission": "NOTRE MISSION",
+    "MissionSub": "Façonner l'avenir du développement web,",
+    "MissionSub2": "en combinant design, technologie et marketing",
+    "Stat1": "5+",
+    "Stat1desc": "Années d'expérience moyenne des spécialistes",
+    "Stat2": "10",
+    "Stat2desc": "Jours nécessaires pour développer une landing page",
+    "Stat3": "99%",
+    "Stat3desc": "Expertise en marketing digital, développement web, design UX/UI"
+  },
+  "choice": {
+    "title": "VOTRE CHOIX – NOTRE QUALITÉ",
+    "card1": {
+      "title": "Nous développons des sites qui répondent aux objectifs commerciaux",
+      "desc": "et apportent des résultats"
+    },
+    "card2": {
+      "title": "Nous aidons à trouver des solutions supplémentaires pour votre entreprise",
+      "desc": ""
+    },
+    "card3": {
+      "title": "Nous proposons des solutions clés en main",
+      "desc": "de l'analyse marketing au lancement"
+    },
+    "card4": {
+      "title": "Approche personnalisée",
+      "desc": "nous créons des solutions adaptées à votre demande"
+    }
+  },
+  "stepper": {
+    "title": "De l'idée à la réalisation",
+    "meetingBtn": "Planifier une réunion",
+    "desc1": "Discutons de votre projet en 15 minutes :",
+    "desc2": "sans engagement, uniquement des avantages.",
+    "desc3": "Choisissez un moment qui vous convient pour un appel.",
+    "step1": {
+      "title": "Vous soumettez une demande sur le site",
+      "desc": "nous ne créons pas de site juste pour le plaisir"
+    },
+    "step2": {
+      "title": "Rencontre",
+      "desc": "Nous organisons un appel Zoom bref et concis. Nous discuterons de vos objectifs et remplirons un brief pour mieux comprendre vos besoins"
+    },
+    "step3": {
+      "title": "Proposition",
+      "desc": "Nous préparons une proposition commerciale claire avec le prix, les délais et les étapes. Tout est transparent et compréhensible dès le premier regard"
+    },
+    "step4": {
+      "title": "Démarrage",
+      "desc": "Nous approuvons le cahier des charges — et nous commençons ! Vous voyez le processus, nous restons en contact"
+    },
+    "step5": {
+      "title": "Lancement",
+      "desc": "Le site est prêt ! Mais ce n'est pas tout : nous effectuons un audit, donnons des recommandations et ne disparaissons pas après le lancement"
+    }
+  },
+  "portfolio": {
+    "title": "Nos réalisations",
+    "card1": {
+      "title": "Site d'entreprise Spartisan",
+      "desc": "Le web design est un type de design graphique axé sur le développement et la conception d'objets d'information"
+    },
+    "card2": {
+      "title": "Site d'entreprise Spartisan",
+      "desc": "Le web design est un type de design graphique axé sur le développement et la conception d'objets d'information"
+    },
+    "card3": {
+      "title": "Site d'entreprise Spartisan",
+      "desc": "Le web design est un type de design graphique axé sur le développement et la conception d'objets d'information"
+    },
+    "card4": {
+      "title": "Site d'entreprise Spartisan",
+      "desc": "Le web design est un type de design graphique axé sur le développement et la conception d'objets d'information"
+    }
+  },
+  "team": {
+    "title": "NOTRE ÉQUIPE",
+    "member1": {
+      "name": "Serhiy Kovalenko",
+      "role": "Co-fondateur, Marketeur digital"
+    },
+    "member2": {
+      "name": "Maksym Stroilo",
+      "role": "Co-fondateur, Directeur technique"
+    },
+    "member3": {
+      "name": "Iryna Praskov'yina",
+      "role": "Designer UX/UI"
+    },
+    "member4": {
+      "name": "Oleksandr Osokin",
+      "role": "Développeur Frontend"
+    }
+  },
+  "reviews": {
+    "title": "AVIS DE NOS CLIENTS"
+  },
+  "realReviews": {
+    "title": "VOIR DES AVIS RÉELS",
+    "desc": {
+      "bold1": "Nous travaillons de manière ouverte et honnête.",
+      "gray": "Consultez les avis réels des clients sur notre profil Freelancehunt.",
+      "bold2": "Sans embellissements ni marketing"
+    },
+    "freelancehunt": "Freelancehunt",
+    "freelancehuntSlogan": "travail à votre format"
+  },
+  "form": {
+    "title": "SOUMETTEZ UNE DEMANDE MAINTENANT",
+    "subtitle1": "Et recevez un audit marketing gratuit",
+    "subtitle2": "de votre entreprise",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "service": {
+      "landing": "Page d'atterrissage",
+      "corporate": "Site d'entreprise",
+      "shop": "Boutique en ligne",
+      "other": "Autre"
+    },
+    "details": "Détails du projet",
+    "submit": "Soumettre la demande"
+  },
+  "footer": {
+    "contactUs": "Contactez-nous :",
+    "slogan": "SMART IDEAS KINGDOM",
+    "rights": "Tous droits réservés",
+    "call": "Appeler",
+    "up": "Haut de page"
+  },
+  "other": {
+    "smart": "SMART",
+    "ideas": "IDÉES",
+    "kingdom": "ROYAUME"
+  }
+}

@@ -1,0 +1,20 @@
+export { LinkedIdIcon } from './LinkedInIcon';
+export { TopRightArrowIcon } from './TopRightArrowIcon';
+export { TelegramIcon } from './TelegramIcon';
+export { InstagramIcon } from './InstagramIcon';
+export { ArrowDownIcon } from './ArrowDownIcon';
+export { WebSiteIcon } from './WebSiteIcon';
+export { BrainIcon } from './BrainIcon';
+export { RocketIcon } from './RocketIcon';
+export { IdeaIcon } from './IdeaIcon';
+export { ArrowRightIcon } from './ArrowRightIcon';
+export { ArrowLeftIcon } from './ArrowLeftIcon';
+export { MapMarkerIcon } from './MapMarkerIcon';
+export { UserIcon } from './UserIcon';
+export { PhoneIcon } from './PhoneIcon';
+export { MailIcon } from './MailIcon';
+export { BriefCaseIcon } from './BriefCaseIcon';
+export { ArrowTopLongIcon } from './ArrowTopLongIcon';
+export { ArrowDownSmallIcon } from './ArrowDownSmallIcon';
+
+export type { IconProps } from './types';

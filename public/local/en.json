@@ -1,0 +1,150 @@
+{
+  "main": {
+    "contactUs": "Contact us",
+    "heroTitle": "WE WILL CREATE A WEBSITE FOR YOUR BUSINESS",
+    "heroSubtitle": "Fill out the form and get a free marketing audit of your business",
+    "heroButton": "Submit request"
+  },
+  "link": {
+    "how": "How we work",
+    "works": "Our works",
+    "team": "Our team",
+    "contacts": "Contacts"
+  },
+  "how": {
+    "Mission": "OUR MISSION",
+    "MissionSub": "Shaping the future in web development,",
+    "MissionSub2": "combining design, technology, and marketing",
+    "Stat1": "5+",
+    "Stat1desc": "Years of average specialist experience",
+    "Stat2": "10",
+    "Stat2desc": "Days to develop a landing page",
+    "Stat3": "99%",
+    "Stat3desc": "Expertise in digital marketing, web development, UX/UI design"
+  },
+  "choice": {
+    "title": "YOUR CHOICE – OUR QUALITY",
+    "card1": {
+      "title": "We develop websites that solve business problems",
+      "desc": "and deliver results"
+    },
+    "card2": {
+      "title": "We help discover extra solutions for your business",
+      "desc": ""
+    },
+    "card3": {
+      "title": "We offer turnkey solutions",
+      "desc": "from marketing analysis to launch"
+    },
+    "card4": {
+      "title": "Personalized approach",
+      "desc": "we create solutions tailored to your needs"
+    }
+  },
+  "stepper": {
+    "title": "From idea to launch",
+    "meetingBtn": "Schedule a meeting",
+    "desc1": "We'll discuss your project in 15 minutes:",
+    "desc2": "no obligations, just value.",
+    "desc3": "Choose a convenient time for a call.",
+    "step1": {
+      "title": "You submit a request on the website",
+      "desc": "we don’t create websites just for the sake of it"
+    },
+    "step2": {
+      "title": "Introduction",
+      "desc": "We call via Zoom — short, to the point. Discuss your goals and fill out a brief to better understand your needs"
+    },
+    "step3": {
+      "title": "Proposal",
+      "desc": "We prepare a clear commercial offer with price, deadlines, and stages. Transparent and clear at first glance"
+    },
+    "step4": {
+      "title": "Start",
+      "desc": "We approve the technical task and get to work! You see the process, we stay in touch"
+    },
+    "step5": {
+      "title": "Launch",
+      "desc": "The site is ready! But that’s not all: we conduct an audit, give recommendations, and stay with you post-launch"
+    }
+  },
+  "portfolio": {
+    "title": "Our works",
+    "card1": {
+      "title": "Corporate website Spartisan",
+      "desc": "Web design is a type of graphic design focused on developing and arranging informational objects"
+    },
+    "card2": {
+      "title": "Corporate website Spartisan",
+      "desc": "Web design is a type of graphic design focused on developing and arranging informational objects"
+    },
+    "card3": {
+      "title": "Corporate website Spartisan",
+      "desc": "Web design is a type of graphic design focused on developing and arranging informational objects"
+    },
+    "card4": {
+      "title": "Corporate website Spartisan",
+      "desc": "Web design is a type of graphic design focused on developing and arranging informational objects"
+    }
+  },
+  "team": {
+    "title": "OUR TEAM",
+    "member1": {
+      "name": "Serhii Kovalenko",
+      "role": "Co-founder, Digital-marketer"
+    },
+    "member2": {
+      "name": "Maksym Stroilo",
+      "role": "Co-founder, Chief Technology Officer"
+    },
+    "member3": {
+      "name": "Iryna Praskov’iina",
+      "role": "UX/UI Designer"
+    },
+    "member4": {
+      "name": "Oleksandr Osokin",
+      "role": "Frontend Developer"
+    }
+  },
+  "reviews": {
+    "title": "REVIEWS FROM OUR CLIENTS"
+  },
+  "realReviews": {
+    "title": "SEE REAL REVIEWS",
+    "desc": {
+      "bold1": "We work openly and honestly.",
+      "gray": "Check out real client reviews on our Freelancehunt profile.",
+      "bold2": "No embellishments or marketing fluff"
+    },
+    "freelancehunt": "Freelancehunt",
+    "freelancehuntSlogan": "work in your format"
+  },
+  "form": {
+    "title": "SUBMIT YOUR REQUEST NOW",
+    "subtitle1": "And get a free marketing audit",
+    "subtitle2": "of your business",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "service": {
+      "landing": "Landing page",
+      "corporate": "Corporate website",
+      "shop": "Online store",
+      "other": "Other"
+    },
+    "details": "Project details",
+    "submit": "Send request"
+  },
+  "footer": {
+    "contactUs": "Contact us:",
+    "slogan": "SMART IDEAS KINGDOM",
+    "rights": "All rights reserved",
+    "call": "Call",
+    "up": "Up"
+  },
+  "other": {
+    "smart": "SMART",
+    "ideas": "IDEAS",
+    "kingdom": "KINGDOM"
+  }
+}

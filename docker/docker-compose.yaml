@@ -1,0 +1,8 @@
+services:
+  sik-prod:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    image: sik-prod
+    ports:
+      - "3000:3000"

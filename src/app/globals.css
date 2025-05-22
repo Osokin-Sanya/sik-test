@@ -1,0 +1,90 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Fonts Variables  */
+  --font-natoSans: notoSans, notoSans Fallback; /* Main font */
+  --font-carlito: carlito, carlito Fallback;
+
+  /* Color Variables - Define colors for consistent design and easy theme management */
+
+  --color-lin_gold: #d9d9d9; /* Light gold color */
+  --color-light-gray: #b8b8b8; /* Light gray, used for backgrounds or borders */
+  --color-black: #080808; /* Almost black, primary text or dark background */
+  --color-light-gray_secondary: #929292; /* Secondary light gray for less prominent elements */
+  --color-main: #fbdd94; /* Main accent color, light gold/yellow */
+  --color-white: #fff; /* Standard white color for text or background */
+  --color-invalid: #f24545; /* Standard white color for text or background */
+
+  /* Gradient Variables - Defining gradients for consistent styling across components */
+  --gradient-lin_gray: linear-gradient(
+    90deg,
+    #fff 10.32%,
+    #393b3d 88.71%
+  ); /* Light to dark gray gradient */
+  --gradient-lin_black_secondary: linear-gradient(
+    90deg,
+    #7a8084 5.36%,
+    rgba(122, 128, 132, 0) 110.38%
+  ); /* Black to transparent gradient */
+  --gradient-lin_black_primary: linear-gradient(
+    90deg,
+    #080808 0%,
+    #91969a 50%
+  ); /* Dark to lighter black gradient */
+
+  /* Spacing Variables - Define consistent spacing units for margins, padding, etc. */
+  --spacing-*: initial; /* Reset existing spacing variables */
+
+  --spacing-1: 4px; /* Small spacing, for fine control */
+  --spacing-2: 8px; /* Small spacing for general layout use */
+  --spacing-3: 16px; /* Default medium spacing */
+  --spacing-4: 24px; /* Larger spacing, for sections or components */
+  --spacing-5: 36px; /* Large spacing, used for section margins */
+  --spacing-6: 48px; /* Extra large spacing, useful for bigger gaps */
+  --spacing-7: 64px; /* Very large spacing, used for full-screen gaps */
+  --spacing-8: 96px; /* Maximum spacing, for large-scale layouts */
+  --spacing-9: 128px; /* Reserved for extremely large gaps between major components */
+
+  /* Container Variables - Define container widths for responsiveness */
+  --container-*: initial; /* Reset container variables */
+
+  --container-mobile: 100%; /* Full-width container for very small mobile devices */
+  --container-tablet: 640px; /* Fixed width for tablets, providing consistent layout */
+  --container-tablet-large: 768px; /* Fixed width for larger tablets, keeping design aligned */
+  --container-laptop-small: 960px; /* Fixed width for small laptops */
+  --container-laptop-large: 1280px; /* Fixed width for larger laptops */
+  --container-desktop: 1602px; /* Maximum width for desktop screens, creating a full-width layout */
+
+  /* Border Radius Variables - Define consistent corner rounding */
+  --radius-*: initial; /* Reset radius variables */
+
+  --radius-xs: 6px; /* Small radius, for subtle rounded corners */
+  --radius-sm: 8px; /* Standard small radius for buttons or inputs */
+  --radius-md: 10px; /* Medium radius for larger UI elements */
+  --radius-lg: 50%; /* Large radius for creating circular elements or rounded cards */
+
+  /* Breakpoint Variables - Define custom breakpoints for responsiveness */
+  --breakpoint-mobile-small: 320px; /* For very small mobile devices */
+  --breakpoint-mobile-medium: 480px; /* For small mobile devices, smartphones */
+  --breakpoint-tablet: 640px; /* For tablets in portrait orientation */
+  --breakpoint-tablet-large: 768px; /* For large tablets and smaller laptops */
+  --breakpoint-laptop-small: 960px; /* For small laptops or large tablets in landscape mode */
+  --breakpoint-laptop-large: 1280px; /* For medium to large laptops */
+  --breakpoint-desktop: 1602px; /* For desktop screens and larger devices */
+
+  /* Text variables */
+  --text-lg: 18px; /* For small text */
+  --text-lg--line-height: calc(var(--text-lg) * 1.38);
+
+  --text-4xl: 35px; /* For middle text */
+  --text-4xl--line-height: calc(var(--text-4xl) * 1.19);
+
+  --text-7xl: 88px; /* For Titles text */
+  --text-7xl--line-height: calc(var(--text-8xl) * 1.19);
+
+  --text-8xl: 95px; /* For Slider text */
+  --text-8xl--line-height: calc(var(--text-8xl) * 1.11);
+
+  --text-9xl: 128px; /* For Main title text */
+  --text-9xl--line-height: calc(var(--text-9xl) * 1.12);
+}
